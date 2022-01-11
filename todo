@@ -1,0 +1,3 @@
+set up docker dev env by today. start implementing
+1. rabbitmq simulation for docker
+2. publisher and consumer for python. basic "events" and "alerts" (no in-memory db)
